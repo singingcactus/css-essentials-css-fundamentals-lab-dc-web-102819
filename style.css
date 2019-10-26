@@ -33,6 +33,10 @@ figure {
   text-align: center;
 }
 
+img {
+  text-align: center;
+}
+
 #details {
   display: block;
 }
