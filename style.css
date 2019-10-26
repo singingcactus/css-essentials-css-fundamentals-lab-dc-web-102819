@@ -15,3 +15,7 @@ nav{
 nav a {
   background-color: grey;
 }
+
+img {
+  align-items: center;
+}
