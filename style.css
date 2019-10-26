@@ -27,3 +27,8 @@ figure {
   margin-left: auto;
   margin-right: auto;
 }
+
+#featured-property p {
+  width: 800px;
+  text-align: center;
+}
