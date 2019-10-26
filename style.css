@@ -16,7 +16,7 @@ nav a {
   background-color: grey;
 }
 
-#featured-property figure {
+figure + img {
   margin-left: auto;
   margin-right: auto;
 }
