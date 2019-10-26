@@ -20,3 +20,8 @@ figcaption {
   font-size: 10px;
   text-align: center;
 }
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+}
