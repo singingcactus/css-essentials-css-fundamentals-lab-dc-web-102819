@@ -39,4 +39,6 @@ figure {
 
 #details div {
   float: left;
+  background-color: green;
+  width: 25%;
 }
