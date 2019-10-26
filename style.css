@@ -17,5 +17,6 @@ nav a {
 }
 
 img {
-  align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
