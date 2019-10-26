@@ -8,6 +8,6 @@ h1 {
   text-align: center;
 }
 
-#nav li {
+nav a {
   background-color: grey;
 }
